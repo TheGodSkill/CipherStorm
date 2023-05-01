@@ -3,6 +3,7 @@
 
 # Installation
 To use CipherStorm, you must have Python installed on your computer. You can download the latest version of Python from the official website: ```https://www.python.org/downloads/```.
+
 The ```tkinter``` and ```string``` module should be preinstalled, if not, Use an new version of Python. 
 Once you have installed Python, download the ```cipherstorm.py``` file from this repository and save it to your desired location with ```git clone https://github.com/TheGodSkill/CipherStorm```
 
