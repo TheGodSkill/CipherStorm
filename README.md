@@ -1,6 +1,10 @@
 # CipherStorm
 ## CipherStorm is a simple encryption/decryption tool that allows you to encrypt and decrypt a word using a passphrase. This program uses a Python script that leverages the string and tkinter libraries to create a graphical user interface (GUI) for easy use.
 
+![Program](https://github.com/TheGodSkill/CipherStorm/tree/main/photos/Example.png?raw=true)
+![Program](https://github.com/TheGodSkill/CipherStorm/tree/main/photos/example1.png?raw=true)
+![Program](https://github.com/TheGodSkill/CipherStorm/tree/main/photos/example2.png?raw=true)
+
 # Installation
 To use CipherStorm, you must have Python installed on your computer. You can download the latest version of Python from the official website: ```https://www.python.org/downloads/```.
 
